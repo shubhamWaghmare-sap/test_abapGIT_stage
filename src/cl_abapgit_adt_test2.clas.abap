@@ -13,7 +13,7 @@ ENDCLASS.
 
 CLASS cl_abapgit_adt_test2 IMPLEMENTATION.
   METHOD method1.
-
+    "More details for demo
   ENDMETHOD.
 
 ENDCLASS.

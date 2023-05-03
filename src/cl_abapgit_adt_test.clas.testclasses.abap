@@ -11,7 +11,7 @@ endclass.
 class ltcl_test implementation.
 
   method first_test.
-    cl_abap_unit_assert=>fail( 'Implement your first test here' ).
+    cl_abap_unit_assert=>fail( 'Nothing to be done' ).
   endmethod.
 
 endclass.

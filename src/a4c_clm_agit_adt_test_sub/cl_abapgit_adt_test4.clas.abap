@@ -1,4 +1,4 @@
-CLASS cl_abapgit_adt_test3 DEFINITION
+CLASS cl_abapgit_adt_test4 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -11,7 +11,7 @@ ENDCLASS.
 
 
 
-CLASS cl_abapgit_adt_test3 IMPLEMENTATION.
+CLASS cl_abapgit_adt_test4 IMPLEMENTATION.
   METHOD newmethod.
 
   ENDMETHOD.
