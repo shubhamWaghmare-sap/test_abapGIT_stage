@@ -1,0 +1,19 @@
+CLASS cl_abapgit_adt_test3 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+    METHODS: newMethod.
+ENDCLASS.
+
+
+
+CLASS cl_abapgit_adt_test3 IMPLEMENTATION.
+  METHOD newmethod.
+
+  ENDMETHOD.
+
+ENDCLASS.
